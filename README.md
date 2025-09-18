@@ -1,12 +1,14 @@
-<p align="center">
-  <img src="https://i.imgur.com/your-banner-image.png" alt="Banner" width="800"/>
-</p>
 
-<h1 align="center">Hi there, I'm Vinicius Barros Alvarenga 👋</h1>
-<h3 align="center">Thank you for your visit.</h2>
+
+<h2 align="left">Hi there, I'm Vinicius Barros Alvarenga 👋</h2>
+<h3 align="left">Thank you for your visit.</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=vinibalvarenga&label=Profile%20views&color=0e75b6&style=flat" alt="vinibalvarenga" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/20ef28d6-c27c-4748-9f80-715becef8b64" alt="Banner" width="800"/>
 </p>
 
 ---
