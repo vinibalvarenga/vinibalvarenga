@@ -14,15 +14,15 @@
 </p>
 
 <p align="left">
-  [cite_start]My journey has taken me through impactful roles, from developing a voice-command financial transaction system at <strong>BTG Pactual</strong> [cite: 38, 39][cite_start], to optimizing LLMs for strategic insights at <strong>AXA</strong>'s Global Strategy team[cite: 29, 30]. I am driven by the challenge of building scalable, efficient software and turning complex data into actionable strategies.
+  My journey has taken me through impactful roles, from developing a voice-command financial transaction system at <strong>BTG Pactual</strong> [cite: 38, 39][cite_start], to optimizing LLMs for strategic insights at <strong>AXA</strong>'s Global Strategy team[cite: 29, 30]. I am driven by the challenge of building scalable, efficient software and turning complex data into actionable strategies.
 </p>
 
-- [cite_start]🔭 I’m currently diving deep into **Distributed Systems, AI technologies, and large-scale data processing** .
-- [cite_start]🌱 I’m learning more about **Cloud Infrastructure, MLOps**[cite: 18, 46].
-- [cite_start]🏢 I'm was accepted to join **Google** as a Software Engineering Intern in São Paulo (Sep 2025).
+- 🔭 I’m currently diving deep into **Distributed Systems, AI technologies, and large-scale data processing** .
+- 🌱 I’m learning more about **Cloud Infrastructure, MLOps**.
+- 🏢 I'm was accepted to join **Google** as a Software Engineering Intern in São Paulo (Sep 2025).
 - 💬 Ask me anything, i'm here to help.
-- [cite_start]📫 How to reach me: **viniciusbarros.alvarenga@gmail.com** [cite: 1]
-- [cite_start]⚡ Fun fact: Besides coding, I'm a singer and a pianist.
+- 📫 How to reach me: **viniciusbarros.alvarenga@gmail.com** 
+- ⚡ Fun fact: Besides coding, I'm a singer and a pianist.
 
 ---
 
