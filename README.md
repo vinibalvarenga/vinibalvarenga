@@ -3,18 +3,22 @@
 </p>
 
 <h1 align="center">Hi there, I'm Vinicius Barros Alvarenga 👋</h1>
-<h3 align="center">A Computer Engineer passionate about Distributed Systems, AI, and the Digital Economy.</h3>
+<h3 align="center">Thank you for your visit.</h2>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=vinibalvarenga&label=Profile%20views&color=0e75b6&style=flat" alt="vinibalvarenga" />
+</p>
 
 ---
 
 ### 👨‍💻 About Me
 
 <p align="left">
-  [cite_start]I am a Computer Engineer from the University of São Paulo (USP) with a Master's degree in France at <strong>Télécom Paris</strong> (Distributed Systems & AI) and <strong>Université Paris Dauphine - PSL</strong> (Network Industries & Digital Economy).
+  I am a Computer Engineer from the University of São Paulo (USP) with a Master's degree in France at <strong>Télécom Paris</strong> (Distributed Systems & AI) and <strong>Université Paris Dauphine - PSL</strong> (Network Industries & Digital Economy).
 </p>
 
 <p align="left">
-  My journey has taken me through impactful roles, from developing a voice-command financial transaction system at <strong>BTG Pactual</strong> [cite: 38, 39][cite_start], to optimizing LLMs for strategic insights at <strong>AXA</strong>'s Global Strategy team[cite: 29, 30]. I am driven by the challenge of building scalable, efficient software and turning complex data into actionable strategies.
+  My journey has taken me through impactful roles, from developing a voice-command financial transaction system at <strong>BTG Pactual</strong> , to optimizing LLMs for strategic insights at <strong>AXA</strong>'s Global Strategy team. I am driven by the challenge of building scalable, efficient software and turning complex data into actionable strategies.
 </p>
 
 - 🔭 I’m currently diving deep into **Distributed Systems, AI technologies, and large-scale data processing** .
