@@ -25,10 +25,8 @@
 
 - 🔭 I’m currently diving deep into **Distributed Systems, AI technologies, and large-scale data processing** .
 - 🌱 I’m learning more about **Cloud Infrastructure, MLOps**.
-- 🏢 I'm was accepted to join **Google** as a Software Engineering Intern in São Paulo (Sep 2025).
 - 💬 Ask me anything, i'm here to help.
 - 📫 How to reach me: **viniciusbarros.alvarenga@gmail.com** 
-- ⚡ Fun fact: Besides coding, I'm a singer and a pianist.
 
 ---
 
