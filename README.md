@@ -20,7 +20,7 @@
 </p>
 
 <p align="left">
-  My journey has taken me through impactful roles, from developing a voice-command financial transaction system at <strong>BTG Pactual</strong> , to optimizing LLMs for strategic insights at <strong>AXA</strong>'s Global Strategy team. I am driven by the challenge of building scalable, efficient software and turning complex data into actionable strategies.
+   I am driven by the challenge of building scalable, efficient software .
 </p>
 
 - 🔭 I’m currently diving deep into **Distributed Systems, AI technologies, and large-scale data processing** .
