@@ -19,12 +19,8 @@
   I am a Computer Engineer from the University of São Paulo (USP) with a Master's degree in France at <strong>Télécom Paris</strong> (Distributed Systems & AI) and <strong>Université Paris Dauphine - PSL</strong> (Network Industries & Digital Economy).
 </p>
 
-<p align="left">
-   I am driven by the challenge of building scalable, efficient software .
-</p>
 
 - 🔭 I’m currently diving deep into **Distributed Systems, AI technologies, and large-scale data processing** .
-- 🌱 I’m learning more about **Cloud Infrastructure, MLOps**.
 - 💬 Ask me anything, i'm here to help.
 - 📫 How to reach me: **viniciusbarros.alvarenga@gmail.com** 
 
